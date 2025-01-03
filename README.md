@@ -19,14 +19,7 @@ Human-Computer Interaction (HCI): Emotion-aware systems can improve interactions
 Entertainment: Emotion recognition can be used to tailor content to users' emotional states, enhancing engagement and experience.
 
 # Resources
-Packages:
-pandas
-numpy
-sklearn
-matplotlib
-seaborn
-tensorflow
-
+Packages: pandas, numpy, sklearn, matplotlib, seaborn tensorflow
 Dataset: FER 2013 dataset from Kaggle (Link to Dataset).
 Model Evaluation
 Accuracy: The model achieves an accuracy of 63% on the test set, reflecting its ability to classify facial expressions with reasonable success.
