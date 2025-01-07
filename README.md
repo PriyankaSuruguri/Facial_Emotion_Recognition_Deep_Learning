@@ -22,9 +22,11 @@ This FER system has several potential applications:
 
 ## Resources
 - Packages: pandas, numpy, sklearn, matplotlib, seaborn tensorflow
-- Dataset: FER 2013 dataset from Kaggle (Link to Dataset).
+- Dataset from Kaggle: https://www.kaggle.com/datasets/msambare/fer2013
+- 
 ## Model Evaluation
 - Accuracy: The model achieves an accuracy of 31.3% on the test set, reflecting its ability to classify facial expressions with reasonable success.
 - Challenges: Despite using data augmentation and handling class imbalance, there is potential for further improvement in model performance.
+- ![Confusion matrix](Confusion_Matrix.png)
 ## Future Directions: 
 The model could be enhanced by exploring deeper architectures, using transfer learning from pretrained models, further tuning hyperparameters, and expanding the dataset.
