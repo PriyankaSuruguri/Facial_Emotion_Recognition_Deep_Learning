@@ -27,6 +27,6 @@ This FER system has several potential applications:
 ## Model Evaluation
 - Accuracy: The model achieves an accuracy of 31.3% on the test set, reflecting its ability to classify facial expressions with reasonable success.
 - Challenges: Despite using data augmentation and handling class imbalance, there is potential for further improvement in model performance.
-- ![Confusion matrix](ConfusionMatrix.png)
+ ![Confusion matrix](ConfusionMatrix.png)
 ## Future Directions: 
 The model could be enhanced by exploring deeper architectures, using transfer learning from pretrained models, further tuning hyperparameters, and expanding the dataset.
